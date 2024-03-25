@@ -7,7 +7,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Hamburg, Germany</p>
 
@@ -16,21 +16,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, this blog is about building a plant irrigation system using a diy capacitive soil moisture sensor. As I don't have access to a garden, and to make my live easier, I'll focus on my plants at home. 
+Hi, this blog is about building a plant irrigation system using a diy capacitive soil moisture sensor. I'll focus on my plants at home, as I don't have access to a garden and it's also making my live a lot easier to use an environment that is in my reach and control. 
 
-My name is Mario. I am ... 
+My name is Mario. I am actually a software engineer spending my entire work life in automotive industry building car navigation systems and in recent years creating lidar perception software. 
 
-The question who waters the plants when I am not at home and pure curiosity in the details of how soil moisture can me measured let me start this project. 
+But the question who waters my plants when I am not at home and pure curiosity in the details of how soil moisture can be measured let me start this project which is more related to electronics. 
 
-The structure of this blog is:
+The structure of this blog will be:
  
  * Motivation and related work
    * Types of sensors and their costs
    * Available Sensors
    * Theory of capacitive sensors
    * Frequency/Soil/Temperature/Salt dependency
-   * Advantages Disadvantages
-   * Related Papers
+   * Advantages/Disadvantages
+   * Related Work and Papers
  * Building and testing prototypes
    * Frequency counting vs Peak detector
  * Building a 20 MHz capacitive soil moisture sensor
