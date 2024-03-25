@@ -35,7 +35,7 @@ The structure of this blog will be:
    * Frequency counting vs Peak detector
  * Building a 20 MHz capacitive soil moisture sensor
  * Building a 120 MHz capacitive soil moisture sensor
- * Evaluating the differences of a 20 MHz and a 120 MHz
+ * Evaluating the differences of a 20 MHz and a 120 MHz soil moisture sensor
  * Connecting a Pump
  * Online Data and Remote Control
  * Possible Applications and Further Development 
