@@ -3,6 +3,7 @@ layout: about
 title: me
 permalink: /me
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+nav_order: 2
 
 profile:
   align: right
