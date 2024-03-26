@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, this blog is a comprehensive guide to build the components for a plant irrigation system using a diy capacitive soil moisture sensor. I would be happy, if these pages here inspire and help people to build their own version for their plants at home, garden or even a field. I'll focus on my plants at home, as I don't have access to a garden and it's also making my live a lot easier to use an environment that is in my reach and control. I tried to realize this project with rather cheap and easily avaiable components. My aim was to get something reliable and affordable done that waters around ten different plants independently. Depending on the use-case and a more carefull selection of the needed parts one could probably reduce the price even more to only a few euros or dollars.
+Hi, this blog is a comprehensive guide to build the components for a plant irrigation system using a diy capacitive soil moisture sensor. I would be happy, if these pages here inspire and help people to build their own version for their plants at home, garden or even a field. I'll focus on my plants at home, as I don't have access to a garden and it's also making my live a lot easier to use an environment that is in my reach and control. I tried to realize this project with rather cheap and easily available components. My aim was to get something reliable and affordable done that waters around ten different plants independently. Depending on the use-case and a more carefull selection of the needed parts one could probably reduce the price even more to only a few euros or dollars.
 
-My name is Mario. I am actually a software engineer spending my entire work life in automotive industry building car navigation systems and in recent years creating lidar perception software. 
+My name is Mario. I am actually a software engineer spending my entire work life in automotive industry building car navigation systems and in recent years creating LiDAR perception software. 
 
 But the question who waters my plants when I am not at home and pure curiosity in the details of how soil moisture can be measured let me start this project which is more related to electronics. 
 
