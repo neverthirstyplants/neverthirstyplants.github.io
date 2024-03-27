@@ -1,9 +1,10 @@
 ---
 layout: about
-title: me
+title: Me
 permalink: /me
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-nav_order: 2
+nav: true
+nav_order: 1
 
 profile:
   align: right

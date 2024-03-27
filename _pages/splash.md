@@ -1,18 +1,15 @@
 ---
 layout: splash
-title: introduction
+title: Overview
 permalink: /
 description: Introduction of this project
-nav: true
-nav_order: 1
-horizontal: false
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<div class="l-page">
+<div class=".l-page">
   {% include figure.liquid path="assets/img/leaf.jpg" title="leafs" class="img-fluid rounded z-depth-1" %}
 </div>
 
