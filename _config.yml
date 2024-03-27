@@ -173,8 +173,12 @@ collections:
     output: false
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
+  nevertp:
+    output: true
+    permalink: /nevertp/:path/
+
 
 announcements:
   enabled: false
