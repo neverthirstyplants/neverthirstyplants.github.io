@@ -9,9 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<div class=".l-page">
-  {% include figure.liquid path="assets/img/leaf.jpg" title="leafs" class="img-fluid rounded z-depth-1" %}
-</div>
+{% include figure.liquid path="assets/img/leaf.jpg" title="leafs" class=".l-page img-fluid rounded z-depth-1" %}
 
 Hi, this blog is a comprehensive guide to build the components for a plant irrigation system using a diy capacitive soil moisture sensor. I would be happy, if these pages here inspire and help people to build their own version for their plants at home, garden or even a field. I'll focus on my plants at home, as I don't have access to a garden and it's also making my live a lot easier to use an environment that is in my reach and control. I tried to realize this project with rather cheap and easily available components. My aim was to get something reliable and affordable done that waters around ten different plants independently. Depending on the use-case and a more careful selection of the needed parts one could probably reduce the price even more to only a few euros or dollars.
 
