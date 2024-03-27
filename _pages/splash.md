@@ -52,7 +52,7 @@ The structure of this blog will be:
 <div class="container">
   <div class="row row-cols-1">
   {% for project in sorted_projects %}
-    {% include projects_horizontal.liquid %}
+    {% include nevertp_collection.liquid %}
   {% endfor %}
   </div>
 </div>
