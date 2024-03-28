@@ -6,7 +6,7 @@ description: Introduction of this project
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 {% include figure.liquid path="assets/img/leaf.jpg" title="leafs" class="l-page img-fluid rounded z-depth-1" %}
@@ -17,35 +17,8 @@ My name is Mario. I am actually a software engineer spending my entire work life
 
 But the question who waters my plants when I am not at home and pure curiosity in the details of how soil moisture can be measured let me start this project which is more related to electronics. 
 
-The structure of this blog will be:
+The contents of this blog are devided into the subsections below. 
  
- * Motivation and related work
-   * Types of sensors and their costs
-   * Available Sensors
-   * Theory of capacitive sensors
-   * Frequency/Soil/Temperature/Salt dependency
-   * Advantages/Disadvantages
-   * Related Work and Papers
- * Building and testing prototypes
-   * Frequency counting vs Peak detector
-   * Circuits
-   * Frequency Generator
- * Building a 20 MHz capacitive soil moisture sensor
-   * Parts / Price
-   * Structure / 
-   * Calibration
-   * Seal / Water Proof
- * Building a 120 MHz capacitive soil moisture sensor
-   * Parts / Price
-   * Frequency Generator Circuit
-   * Warning
-   * Structure  
-   * Calibration   
- * Evaluating the differences of a 20 MHz and a 120 MHz soil moisture sensor
- * Connecting a Pump
- * Online Data and Remote Control
- * Possible Applications and Further Development 
-
 {% assign sorted_projects = site.nevertp | sort: "importance" %}
 
 <!-- Generate cards for each project -->
