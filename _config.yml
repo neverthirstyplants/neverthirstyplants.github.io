@@ -6,7 +6,7 @@ title: Never Thirsty Plants
 first_name: Mario
 middle_name:
 last_name: Lüder
-email: neverthirstyplants@gmail.com
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Automatic plant irrigation system based on capacitive soil moisture sensors. 
 footer_text: >
@@ -68,12 +68,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: neverthirstyplants
-gitlab_username: mayio
+github_username:
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: mariolueder # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
