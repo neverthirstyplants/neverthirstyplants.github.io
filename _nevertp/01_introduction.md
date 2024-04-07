@@ -11,6 +11,18 @@ This project started with the need to water my plants at home when I am on vacat
 
 ## Types of sensors and their costs 
 
+The term dielectric constant plays a key role. In this context it can be thought of a value that is the related to the amount of energy that can be stored in an electric field by soil (in general by an insulating material). An increase of water content in the soil, increases also the dielectric constant. Thus, more energy can be stored. I want to introduce Soil Moisture Sensors that are based on this principal to estimate the volume of water content in the soil. 
+
+There are also Soil Moisture Sensors out there that are based on resistance. They just measure 
+
+https://metergroup.com/measurement-insights/soil-moisture-sensors-how-they-work-why-some-are-not-research-grade/
+
+Radar
+Tensiometers
+
+https://www.seeedstudio.com/blog/2022/07/22/%EF%BF%BCdifferent-types-of-soil-moisture-sensors%EF%BF%BC/
+
+
 * Types of sensors and their costs
 * Available Sensors
   
@@ -19,6 +31,10 @@ This project started with the need to water my plants at home when I am on vacat
 * Frequency/Soil/Temperature/Salt dependency
 * Advantages/Disadvantages
 
+## Todo
+
+* link "Blumat", "Cotton Strips", "Irrigation Ball"
+* https://www.agritechtomorrow.com/article/2019/07/soil-moisture-sensors-in-agriculture/11534
 
 * Related Work and Papers
 
